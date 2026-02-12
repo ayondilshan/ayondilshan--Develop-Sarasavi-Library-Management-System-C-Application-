@@ -1,0 +1,6 @@
+C:\Sarasavi lbrary mnagement System\Sarasavi lbrary mnagementSystem\obj\Release\Sarasavi lbrary mnagementSystem.csproj.AssemblyReference.cache
+C:\Sarasavi lbrary mnagement System\Sarasavi lbrary mnagementSystem\obj\Release\Sarasavi_lbrary_mnagementSystem.frmLibrary.resources
+C:\Sarasavi lbrary mnagement System\Sarasavi lbrary mnagementSystem\obj\Release\Sarasavi_lbrary_mnagementSystem.login.resources
+C:\Sarasavi lbrary mnagement System\Sarasavi lbrary mnagementSystem\obj\Release\Sarasavi_lbrary_mnagementSystem.Properties.Resources.resources
+C:\Sarasavi lbrary mnagement System\Sarasavi lbrary mnagementSystem\obj\Release\Sarasavi lbrary mnagementSystem.csproj.GenerateResource.cache
+C:\Sarasavi lbrary mnagement System\Sarasavi lbrary mnagementSystem\obj\Release\Sarasavi lbrary mnagementSystem.csproj.CoreCompileInputs.cache

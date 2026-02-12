@@ -1,0 +1,18 @@
+C:\Ayon Dilshan\Sarasavi-Library-Management-System-C-Application\Sarasavi lbrary mnagement System\Sarasavi lbrary mnagementSystem\obj\Debug\Sarasavi lbrary mnagementSystem.csproj.AssemblyReference.cache
+C:\Ayon Dilshan\Sarasavi-Library-Management-System-C-Application\Sarasavi lbrary mnagement System\Sarasavi lbrary mnagementSystem\obj\Debug\Sarasavi_lbrary_mnagementSystem.frmLibrary.resources
+C:\Ayon Dilshan\Sarasavi-Library-Management-System-C-Application\Sarasavi lbrary mnagement System\Sarasavi lbrary mnagementSystem\obj\Debug\Sarasavi_lbrary_mnagementSystem.login.resources
+C:\Ayon Dilshan\Sarasavi-Library-Management-System-C-Application\Sarasavi lbrary mnagement System\Sarasavi lbrary mnagementSystem\obj\Debug\Sarasavi_lbrary_mnagementSystem.Properties.Resources.resources
+C:\Ayon Dilshan\Sarasavi-Library-Management-System-C-Application\Sarasavi lbrary mnagement System\Sarasavi lbrary mnagementSystem\obj\Debug\Sarasavi lbrary mnagementSystem.csproj.GenerateResource.cache
+C:\Ayon Dilshan\Sarasavi-Library-Management-System-C-Application\Sarasavi lbrary mnagement System\Sarasavi lbrary mnagementSystem\obj\Debug\Sarasavi lbrary mnagementSystem.csproj.CoreCompileInputs.cache
+C:\Sarasavi lbrary mnagement System\Sarasavi lbrary mnagementSystem\obj\Debug\Sarasavi lbrary mnagementSystem.csproj.AssemblyReference.cache
+C:\Sarasavi lbrary mnagement System\Sarasavi lbrary mnagementSystem\obj\Debug\Sarasavi_lbrary_mnagementSystem.frmLibrary.resources
+C:\Sarasavi lbrary mnagement System\Sarasavi lbrary mnagementSystem\obj\Debug\Sarasavi_lbrary_mnagementSystem.login.resources
+C:\Sarasavi lbrary mnagement System\Sarasavi lbrary mnagementSystem\obj\Debug\Sarasavi_lbrary_mnagementSystem.Properties.Resources.resources
+C:\Sarasavi lbrary mnagement System\Sarasavi lbrary mnagementSystem\obj\Debug\Sarasavi lbrary mnagementSystem.csproj.GenerateResource.cache
+C:\Sarasavi lbrary mnagement System\Sarasavi lbrary mnagementSystem\obj\Debug\Sarasavi lbrary mnagementSystem.csproj.CoreCompileInputs.cache
+C:\Sarasavi lbrary mnagement System\Sarasavi lbrary mnagementSystem\bin\Debug\Sarasavi lbrary mnagementSystem.exe.config
+C:\Sarasavi lbrary mnagement System\Sarasavi lbrary mnagementSystem\bin\Debug\Sarasavi lbrary mnagementSystem.exe
+C:\Sarasavi lbrary mnagement System\Sarasavi lbrary mnagementSystem\bin\Debug\Sarasavi lbrary mnagementSystem.pdb
+C:\Sarasavi lbrary mnagement System\Sarasavi lbrary mnagementSystem\obj\Debug\Sarasavi lbrary mnagementSystem.exe
+C:\Sarasavi lbrary mnagement System\Sarasavi lbrary mnagementSystem\obj\Debug\Sarasavi lbrary mnagementSystem.pdb
+C:\Sarasavi lbrary mnagement System\Sarasavi lbrary mnagementSystem\obj\Debug\Sarasavi_lbrary_mnagementSystem.frmUserO.resources
